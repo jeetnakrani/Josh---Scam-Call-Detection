@@ -1,0 +1,7 @@
+datasets
+SpeechRecognition
+pydub
+transformers
+torch
+speechrecognition
+streamlit
